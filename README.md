@@ -1,4 +1,4 @@
-# Analysis of thoraric cancer surgery data
+# Analysis of thoracic cancer surgery data
 
 This was a project that I did in the [Decision Making Systems in Medicine](https://www.etf.bg.ac.rs/sr/fis/karton_predmeta/13E053SOM-2013) class during my undergraduate studies in the summer of 2020.
 
